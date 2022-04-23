@@ -1,0 +1,191 @@
+body{background-color: darkslategrey;}
+
+.tablafd{
+    border-radius: 2mm;
+    border-color: black;
+    border-style:solid; 
+    border-spacing: 2mm; 
+    background-color:darkgray; 
+    text-align: center; 
+    margin-left: 5mm;
+}
+
+p{
+    color: antiquewhite;
+    margin-left: 5mm;
+}
+
+.barra{
+    color:black;
+    background:darkgray;
+    display: inline-block;
+    border-style: solid;
+    border-radius: 1mm;
+    margin-left: 5mm;
+    padding: 2mm 8mm;
+    text-decoration: none;
+}
+.barra:hover{
+    background: black;
+    color: darkgray;
+}
+
+a{color: aliceblue;}
+
+h1{
+    color: black; 
+    border: 1mm; 
+    border-color: black;
+    border-style:solid; 
+    letter-spacing: 5mm; 
+    background-color: darkgray; 
+    border-radius: 2mm; 
+    margin-left: 3mm;
+    padding-left: 3mm;
+}
+
+h2{
+    color: antiquewhite;
+    margin-left: 5mm;
+}
+
+.lista{color: antiquewhite;}
+
+.form{margin-left: 5mm;}
+
+#nombre{
+    margin-left: 7mm; 
+    border-style: solid; 
+    border-color: black; 
+    border-radius: 1mm;
+}
+
+#apellidos{
+    margin-left: 5mm; 
+    border-style: solid; 
+    border-color: black; 
+    border-radius: 1mm;
+}
+
+#correo{
+    margin-left: 10mm; 
+    border-style: solid; 
+    border-color: black; 
+    border-radius: 1mm;
+}
+
+#numtel{
+    margin-left: 7mm; 
+    border-style: solid; 
+    border-color: black; 
+    border-radius: 1mm;
+}
+
+#comentario{
+    margin-left:5mm; 
+    border-style: solid; 
+    border-color: black; 
+    border-radius: 1mm;
+}
+
+.enviar{margin-left: 5mm; 
+    border-style: solid; 
+    border-color: black; 
+    border-radius: 1mm;
+    color: black;
+    background: darkgrey;
+    padding: 2mm 5mm ;
+}
+
+.enviar:hover{
+    color: darkgray;
+    background: black;
+
+}
+
+.pie{
+    color: antiquewhite;
+}
+
+.imgtabla{
+    margin: 2mm;
+    border-style: solid;
+    border: 5mm;
+    border-color: black;
+    padding: 2mm;
+}
+
+.imgcodtabla{
+    margin: 2mm;
+    border-style: solid;
+    border: 5mm;
+    border-color: black;
+    padding: 2mm;
+}
+
+.imgformulario{
+    margin: 2mm;
+    border-style: solid;
+    border: 5mm;
+    border-color: black;
+    padding: 2mm;
+}
+
+.imgcodformulario{
+    margin: 2mm;
+    border-style: solid;
+    border: 5mm;
+    border-color: black;
+    padding: 2mm;
+}
+
+.imgestilo{
+    margin: 2mm;
+    border-style: solid;
+    border: 5mm;
+    border-color: black;
+    padding: 2mm;
+}
+
+.imgrediseño{
+    margin: 2mm;
+    border-style: solid;
+    border: 5mm;
+    border-color: black;
+    padding: 2mm;   
+}
+
+.koi{
+    padding-left: 5mm;
+    padding-right: 65mm;
+    margin: 2mm;
+    border-color: black;
+    border-style: solid;
+    border: 2mm;
+    max-width: 50mm;
+    max-height: 50mm;
+   
+}
+
+.koi2{
+    
+    padding-right: 115mm;
+    margin: 2mm;
+    border-color: black;
+    border-style: solid;
+    border: 2mm;
+    max-width: 50mm;
+    max-height: 50mm;
+}
+
+.koi3{
+    
+    padding-right: 20mm;
+    margin: 2mm;
+    border-color: black;
+    border-style: solid;
+    border: 2mm;
+    max-width: 40mm;
+    max-height: 40mm;
+}
+
